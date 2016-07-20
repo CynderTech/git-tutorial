@@ -12,7 +12,7 @@ GitHub account.
 
 From the command line:
 ```
-git clone git clone git@github.com:<your_github_username>/git-tutorial.git
+git clone git@github.com:<your_github_username>/git-tutorial.git
 ```
 
 Now you have a working copy of the repository.
