@@ -1,0 +1,1 @@
+Which animal is moving faster relative to the earths center, a running cheetah at max speed or an astronaut in orbit?
