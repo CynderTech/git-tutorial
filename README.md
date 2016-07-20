@@ -1,5 +1,5 @@
 
-Modified workshop exercises for new incoming Cynder employees.
+Modified workshop exercises for incoming Cynder employees.
 
 [PDF of slides](/slides/workshop.pdf)
 
