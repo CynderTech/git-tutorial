@@ -1,0 +1,1 @@
+Bakit inactive si Queen Rochelle? Naka hiatus ba sya?
